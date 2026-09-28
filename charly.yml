@@ -1,7 +1,5 @@
-version: 2026.232.0520
 pod-addcandy-marker:
     candy:
-        version: 2026.181.1430
         description: |
             Drop /etc/pod-addcandy-marker + copy /etc/pod-addcandy-copied — the
             add_candy-on-pod overlay witness (write: AND copy: legs)
