@@ -55,6 +55,6 @@ tokens inside the running container.
 
 ## Related
 
-- Owning family skill: `/charly-core:deploy` (`add_candy:` overlay)
+- Family skill: `/charly-core:deploy` (the `add_candy:` overlay; this repo carries no `skill:` entity — see `AGENTS.md`)
 - [`opencharly/charly`](https://github.com/opencharly/charly) — the charly CLI and image builder
 - [`opencharly/opencharly`](https://github.com/opencharly/opencharly) — the umbrella
